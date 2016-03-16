@@ -1,6 +1,6 @@
 # Udacity-Android-Project-3-Super-Duo
 This is the third project in Udacity's Android Nanodegree.
-In this project I improved two app: 
+In this project I improved two apps: 
 
 Alexandria: A book list and barcode scanner app.  
 Football Scores : An app that tracks current and future football matches (soccer, for students in the USA).  
